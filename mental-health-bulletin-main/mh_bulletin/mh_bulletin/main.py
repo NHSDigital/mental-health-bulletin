@@ -73,10 +73,6 @@ dbutils.notebook.run('prep/17. Chapter_19_prep (CYP Outcomes)', 0, params)
 
 # COMMAND ----------
 
-dbutils.notebook.run('prep/1. Chapter_1_prep', 0, params)
-
-# COMMAND ----------
-
 # DBTITLE 1,Prep Table Tests
 dbutils.notebook.run('../tests/test_prep_tables', 0, params)
 
