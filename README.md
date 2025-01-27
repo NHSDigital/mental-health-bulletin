@@ -53,7 +53,7 @@ If you have any questions or issues regarding the constructions or code within t
 
 ## Authors and acknowledgment
 Community and Mental Health Team, NHS England
-mh.analysis@nhs.net
+england.mentalhealthanalysis@nhs.net
 
 ## License
 The menh_bbrb codebase is released under the MIT License.
