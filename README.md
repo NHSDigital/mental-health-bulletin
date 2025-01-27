@@ -49,7 +49,7 @@ In places the notebooks above use some acronyms. The main ones used are as follo
 -LA: Local Authority
 
 ## Support
-If you have any questions or issues regarding the constructions or code within this repository please contact mh.analysis@nhs.net
+If you have any questions or issues regarding the constructions or code within this repository please contact england.mentalhealthanalysis@nhs.net
 
 ## Authors and acknowledgment
 Community and Mental Health Team, NHS England
